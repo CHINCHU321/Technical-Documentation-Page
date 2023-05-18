@@ -1,0 +1,32 @@
+html body{
+ font-family: 'Open Sans', Arial, sans-serif;
+}
+.navbar{
+  position:fixed;
+  bottom: 0;
+  left: 0;
+  width: 300px;
+}
+.main-doc{
+  margin-left: 310px;
+  position: absolute;
+  padding: 20px;
+}
+.nav-link{
+  color: rgb(104, 102, 102);
+  font-size: 15px;
+}
+.navbar ul{
+  list-style-type: none;
+}
+header{
+  font-size: 30px;
+}
+
+article{
+  color: rgb(78, 76, 76);
+  font-size: 15px;
+}
+code{
+  display: block;
+}
